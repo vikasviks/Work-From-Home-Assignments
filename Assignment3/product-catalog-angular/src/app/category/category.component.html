@@ -1,0 +1,144 @@
+
+    <div class="container">
+        <br>
+        <div class="row" style="justify-content: space-around; display: flex;">
+            <button type="button" class="btn btn-primary" (click)='setAddCategory()'>Add Product</button>
+            <button type="button" class="btn btn-info" (click)='setDisplayCategory()'>Display</button>
+            <button type="button" class="btn btn-info" (click)='setSearchCategory()'>Search</button>
+            <button type="button" class="btn btn-danger" (click)='setDeleteCategory()'>Delete</button>
+        </div>
+    </div>
+<br>
+<div *ngIf='addCategory' class="container" style="align-content: center;">
+    <form (ngSubmit)='addCategoryToList()' [formGroup]='loginForm' novalidate class="form">
+        <label for="Id">Enter Id</label>
+        <input type="number" formControlName='Id' class="form-control" [(ngModel)]='categoryId' id="Id"
+            aria-describedby="emailHelp" placeholder="Enter Id">
+        <div class="alert alert-danger"
+            *ngIf="loginForm?.get('Id')?.hasError('required') && loginForm?.get('Id')?.touched">
+            Id is Required
+        </div>
+
+        <label for="Name">Name</label>
+        <input type="text" formControlName='Name' class="form-control" [(ngModel)]='categoryName' id="Name"
+            placeholder="Enter Name">
+        <div class="alert alert-danger"
+            *ngIf="loginForm?.get('Name')?.hasError('required') && loginForm?.get('Name')?.touched">
+            Name is Required
+        </div>
+
+        <label for="Code">Code</label>
+        <input type="text" formControlName='Code' [(ngModel)]='categoryCode' class="form-control" id="Code"
+            placeholder="Enter Code">
+        <div class="alert alert-danger"
+            *ngIf="loginForm?.get('Code')?.hasError('required') && loginForm?.get('Code')?.touched">
+            Code is Required
+        </div>
+
+        <label for="Description">Description</label>
+        <input type="text" formControlName='Description' [(ngModel)]='categoryDescription' class="form-control"
+            id="Description" placeholder="Enter Description">
+        <div class="alert alert-danger"
+            *ngIf="loginForm?.get('Description')?.hasError('required') && loginForm?.get('Description')?.touched">
+            Description is Required
+        </div>
+        <br>
+        <div>
+            <div style="float: left;">
+                <button [disabled]='loginForm.invalid' class="btn btn-primary">Add</button>
+            </div>
+            <div>
+                <button (click)='cancel()' class="btn btn-danger mb-2">Reset</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div *ngIf='displayCategory'>
+    <div class="container" style="align-content: center;">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Id
+                    </th>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Code
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr *ngFor="let p of categoryList">
+                    <td>{{p.Id}}</td>
+                    <td>{{p.Name}}</td>
+                    <td>{{p.Code}}</td>
+                    <td>{{p.Description}}</td>
+                </tr>
+            </tbody>
+
+        </table>
+    </div>
+</div>
+
+<div *ngIf='deleteCategory' class="container" style="align-content: center;">
+
+    <p>Delete Category by Id</p>
+
+    <label for="Id">Enter Id</label>
+    <input type="number" class="form-control" id="Id" [(ngModel)]='removeId' placeholder="Enter Id">
+    <br>
+    <button (click)='removeCategoryFromList()' class="btn btn-danger">Delete</button>
+</div>
+
+<div *ngIf='searchCategory' class="container" style="align-content: center;">
+
+    <p>Search Category by Id Or Name</p>
+    <label for="Id">Enter Id</label>
+    <input type="number" class="form-control" id="Id" [(ngModel)]='searchId' placeholder="Enter Id">
+
+
+    <label for="Name">Name</label>
+    <input type="text" class="form-control" id="Name" [(ngModel)]='searchName' placeholder="Enter Name">
+    <br>
+    <button (click)='searchCategoryFromList()' class="btn btn-primary">Search</button>
+    <br>
+    <div *ngIf='found'>
+        <div class="container" style="align-content: center;">
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Id
+                        </th>
+                        <th>
+                            Name
+                        </th>
+                        <th>
+                            Code
+                        </th>
+                        <th>
+                            Description
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <td>{{foundCategory.Id}}</td>
+                    <td>{{foundCategory.Name}}</td>
+                    <td>{{foundCategory.Code}}</td>
+                    <td>{{foundCategory.Description}}</td>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
