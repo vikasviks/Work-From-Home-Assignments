@@ -1,0 +1,48 @@
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.exe
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.deps.json
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.runtimeconfig.json
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.runtimeconfig.dev.json
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.dll
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ref\ECommerceApp.dll
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.pdb
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.csprojAssemblyReference.cache
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.dll
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ref\ECommerceApp.dll
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.pdb
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.genruntimeconfig.cache
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.exe
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.deps.json
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.runtimeconfig.json
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.runtimeconfig.dev.json
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.dll
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ref\ECommerceApp.dll
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.pdb
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.csprojAssemblyReference.cache
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.dll
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ref\ECommerceApp.dll
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.pdb
+C:\Users\Ram Gopal\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.genruntimeconfig.cache
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.exe
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.deps.json
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.runtimeconfig.json
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.runtimeconfig.dev.json
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.dll
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ref\ECommerceApp.dll
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\bin\Debug\net5.0\ECommerceApp.pdb
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.csprojAssemblyReference.cache
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.AssemblyInfo.cs
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.dll
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ref\ECommerceApp.dll
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.pdb
+C:\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\net5.0\ECommerceApp.genruntimeconfig.cache

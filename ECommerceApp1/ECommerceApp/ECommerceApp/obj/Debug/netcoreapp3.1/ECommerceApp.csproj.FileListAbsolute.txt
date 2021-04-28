@@ -1,0 +1,28 @@
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.exe
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.deps.json
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.runtimeconfig.json
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.pdb
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.csprojAssemblyReference.cache
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.pdb
+C:\Users\lenovo\Downloads\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.exe
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.deps.json
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.runtimeconfig.json
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\bin\Debug\netcoreapp3.1\ECommerceApp.pdb
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.csprojAssemblyReference.cache
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.pdb
+C:\Users\lenovo\Downloads\EECommerceApp\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.genruntimeconfig.cache
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.dll
+C:\Users\s s infotech\Downloads\ECommerceApp1\ECommerceApp\ECommerceApp\obj\Debug\netcoreapp3.1\ECommerceApp.pdb
